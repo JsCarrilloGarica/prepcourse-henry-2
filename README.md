@@ -1,2 +1,2 @@
-# prepcourse-henry-2
-prueba de repositorio 2  a ver si se puede
+prueba dos de como crear un repositorio desde github y pasarlo a mi computadora
+
